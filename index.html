@@ -1,0 +1,22 @@
+<html>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.0.4/socket.io.slim.js"></script>
+<script>
+var socket = io('pacific-meadow-71522.herokuapp.com', { transports: ['websocket', 'polling'] }); // TIP: io() with no args does auto-discovery
+//var socket = io('localhost:5000',{transports: ['websocket', 'polling']}); // TIP: io() with no args does auto-discovery
+
+//socket.on('connect', function () { // TIP: you can avoid listening on `connect` and listen on events directly too!
+socket.emit('participant_update', 'tobi', function (data) {
+    console.log(data); // data will be 'woot'
+});
+// });
+
+/*
+   var host = 'ws://pacific-meadow-71522.herokuapp.com'
+      var ws = new WebSocket(host);
+      ws.onmessage = function (event) {
+        console.log(event.data)
+      };
+      */
+</script>
+
+</html>

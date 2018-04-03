@@ -1,0 +1,21 @@
+{
+  "name": "loanfree-service",
+  "version": "0.0.1",
+  "description": "my first socket.io app",
+  "dependencies": {
+    "absorb": "^1.0.1",
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "co": "^4.6.0",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "http": "0.0.0",
+    "merge": "^1.2.0",
+    "mongo-uuid": "^1.0.0",
+    "mongodb": "^3.0.1",
+    "mongoose": "^4.13.9",
+    "mongoose-guid": "^1.0.31",
+    "socket.io": "^2.0.4",
+    "ws": "^4.0.0"
+  }
+}

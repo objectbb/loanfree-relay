@@ -1,0 +1,50 @@
+0000000000000000000000000000000000000000 8892c2112270d069d561f02ca20c99a5910b59ac objectbb <objectbb@gmail.com> 1516140051 -0500	commit (initial): init
+8892c2112270d069d561f02ca20c99a5910b59ac f7b3e0f1fc14c3b380f61039eeba9df2a9c71b6c objectbb <objectbb@gmail.com> 1516140232 -0500	commit: init
+f7b3e0f1fc14c3b380f61039eeba9df2a9c71b6c c6181860ff98d12822864b577167c4d9955ac178 objectbb <objectbb@gmail.com> 1516140393 -0500	commit: init
+c6181860ff98d12822864b577167c4d9955ac178 4b6fac17fb55d8226ac193db3725efc8316ae5b2 objectbb <objectbb@gmail.com> 1516141288 -0500	commit: init
+4b6fac17fb55d8226ac193db3725efc8316ae5b2 05255b2e167841b4ef848a4743cb75889e4b7fb0 objectbb <objectbb@gmail.com> 1516142828 -0500	commit: init
+05255b2e167841b4ef848a4743cb75889e4b7fb0 53a9ce5f5e5a1c1741c85be70e8c1078d9fd5daf objectbb <objectbb@gmail.com> 1516143125 -0500	commit: init
+53a9ce5f5e5a1c1741c85be70e8c1078d9fd5daf 992f0786369652634af634ca62f050a68b33d2b3 objectbb <objectbb@gmail.com> 1516145528 -0500	commit: init
+992f0786369652634af634ca62f050a68b33d2b3 40146760607e6aa53b3da4551875666b7a76915f objectbb <objectbb@gmail.com> 1516146955 -0500	commit: init
+40146760607e6aa53b3da4551875666b7a76915f 944a8e3c613aa8dbe60c0d6f19bc186698b1e19a objectbb <objectbb@gmail.com> 1516147350 -0500	commit: init
+944a8e3c613aa8dbe60c0d6f19bc186698b1e19a ece5172fc1fe883bacfddefec21176ccd943d5b0 objectbb <objectbb@gmail.com> 1516148445 -0500	commit: return THE json data
+ece5172fc1fe883bacfddefec21176ccd943d5b0 85b623af83ba6c688969e648e0ca22f19df01ef5 objectbb <objectbb@gmail.com> 1516150576 -0500	commit: return THE json data
+85b623af83ba6c688969e648e0ca22f19df01ef5 ba8f0aecd8f0bae528355d763b5577b6f5319b21 objectbb <objectbb@gmail.com> 1516155899 -0500	commit: update subscriber
+ba8f0aecd8f0bae528355d763b5577b6f5319b21 f4435fc6c855c85b28df92d68f8be988641270bc objectbb <objectbb@gmail.com> 1516173446 -0600	commit: add mongodb schema
+f4435fc6c855c85b28df92d68f8be988641270bc cf04a4fb01930495a1b91a2195258a693245e57d objectbb <objectbb@gmail.com> 1516175141 -0600	commit: mongo schema
+cf04a4fb01930495a1b91a2195258a693245e57d 92bf90e2ec43b1291c99aceb3688c1dd18732696 objectbb <objectbb@gmail.com> 1516339061 -0600	commit: crud actions
+92bf90e2ec43b1291c99aceb3688c1dd18732696 b0624175d678b1580c796cb5540cc9c7648c080a objectbb <objectbb@gmail.com> 1516340025 -0600	commit: schemas modules
+b0624175d678b1580c796cb5540cc9c7648c080a 73af81dd850ce2c8dfa707b7134c80f16060e66c objectbb <objectbb@gmail.com> 1516341351 -0600	commit: schemas modules
+73af81dd850ce2c8dfa707b7134c80f16060e66c aca52a3003286ec906a0b2ba4d0c5dc10cbd022f objectbb <objectbb@gmail.com> 1516345395 -0600	commit: modularization
+aca52a3003286ec906a0b2ba4d0c5dc10cbd022f 68b5b8af08311cc77f2b924c715a5dafa9b9492f objectbb <objectbb@gmail.com> 1516762496 -0600	commit: remove fae data
+68b5b8af08311cc77f2b924c715a5dafa9b9492f c3369f65e526e04eb625c1eadd413f7c01222a1d objectbb <objectbb@gmail.com> 1517124993 -0600	commit: init
+c3369f65e526e04eb625c1eadd413f7c01222a1d d3e3ede38cb15f2d8988950596dfc679d40e622a objectbb <objectbb@gmail.com> 1517132113 -0600	commit: cors
+d3e3ede38cb15f2d8988950596dfc679d40e622a 56ca5aae25d988fa60e369b8ea1df74576c6629b objectbb <objectbb@gmail.com> 1517132223 -0600	commit: cors
+56ca5aae25d988fa60e369b8ea1df74576c6629b 010b440baa615249361b89b2bbd3f0c48b587865 objectbb <objectbb@gmail.com> 1517190050 -0600	commit: init
+010b440baa615249361b89b2bbd3f0c48b587865 6a6d1cde3f7a9c952478e62786f6c466c3d082ed objectbb <objectbb@gmail.com> 1517388767 -0600	commit: added evenparticipant crud
+6a6d1cde3f7a9c952478e62786f6c466c3d082ed 5f26ec66a3b392c69977d8a0e3cf51809ef8b4d7 objectbb <objectbb@gmail.com> 1517545224 -0600	commit: refactored separating eventparticipant
+5f26ec66a3b392c69977d8a0e3cf51809ef8b4d7 2b0556698ee84838d36b77bfeed8ae2605716d90 objectbb <objectbb@gmail.com> 1517547882 -0600	commit: date case
+2b0556698ee84838d36b77bfeed8ae2605716d90 07b594368b4fe1d45bfae26bdf90c48b413c180b objectbb <objectbb@gmail.com> 1517564550 -0600	commit: participants batch update
+07b594368b4fe1d45bfae26bdf90c48b413c180b 10d3f83d576fe60e24f0e3253e61a82be09cce12 objectbb <objectbb@gmail.com> 1517706636 -0600	commit: participants upsert
+10d3f83d576fe60e24f0e3253e61a82be09cce12 46bdbfe142e20af8d4d00cd1b7fcacbcdc953a53 objectbb <objectbb@gmail.com> 1517714226 -0600	commit: participants upsert
+46bdbfe142e20af8d4d00cd1b7fcacbcdc953a53 c5e4da7054c287bbe205b788acebe23f1f10dc38 objectbb <objectbb@gmail.com> 1518045566 -0600	commit: add an events action
+c5e4da7054c287bbe205b788acebe23f1f10dc38 1b0bf7875fc5201ffe3bdcb32b62abe0dafc1699 objectbb <objectbb@gmail.com> 1518129291 -0600	commit: dont version docs
+1b0bf7875fc5201ffe3bdcb32b62abe0dafc1699 be95ebf7173f9a7129c7b914c58328a81310e080 objectbb <objectbb@gmail.com> 1518256743 -0600	commit: strip out version
+be95ebf7173f9a7129c7b914c58328a81310e080 33baf02c9e4ec7d35e73c84df9f47335370e669b objectbb <objectbb@gmail.com> 1518322978 -0600	commit: store photos
+33baf02c9e4ec7d35e73c84df9f47335370e669b 5e4e55deed077306cb05ff95a1dfd05ca1f0f03f objectbb <objectbb@gmail.com> 1518460095 -0600	commit: dont populate participant
+5e4e55deed077306cb05ff95a1dfd05ca1f0f03f d5acc998d486058da5dc02db7f2dc2f619632359 objectbb <objectbb@gmail.com> 1519097349 -0600	commit: events_participate missing
+d5acc998d486058da5dc02db7f2dc2f619632359 8488602500286165f092cabf85b4485950b2a16d objectbb <objectbb@gmail.com> 1519609342 -0600	commit: event participants check if empty
+8488602500286165f092cabf85b4485950b2a16d 2453ae018f7697a47fc9c6cd4064fd38a0a28d1f objectbb <objectbb@gmail.com> 1519611466 -0600	commit: error handling for duplicate participants
+2453ae018f7697a47fc9c6cd4064fd38a0a28d1f 9d519a626dee5bb1775c9dd29264d20457c2264e objectbb <objectbb@gmail.com> 1519703601 -0600	commit: event participants import exception handling
+9d519a626dee5bb1775c9dd29264d20457c2264e 0fbf6f642bf1aefc2d63277997e81ee6ad0e09b0 objectbb <objectbb@gmail.com> 1519872582 -0600	commit: added geocoding
+0fbf6f642bf1aefc2d63277997e81ee6ad0e09b0 f9a3f76ba20d4bd82f1699cbfb6fda3da87967bc objectbb <objectbb@gmail.com> 1519872896 -0600	commit: added geocoding
+f9a3f76ba20d4bd82f1699cbfb6fda3da87967bc 56f6cd4304a74398a6869b2c5aed35f9fec0ac68 objectbb <objectbb@gmail.com> 1519872994 -0600	commit: added geocodgin
+56f6cd4304a74398a6869b2c5aed35f9fec0ac68 e095a60b63982e629be9e5b6d9d63a4fa0458295 objectbb <objectbb@gmail.com> 1519878030 -0600	commit: mapbox token fix
+e095a60b63982e629be9e5b6d9d63a4fa0458295 7eac27ca31fb425032c9c1b6d3c3f8f63ea8d394 objectbb <objectbb@gmail.com> 1519878921 -0600	commit: mapbox token fix
+7eac27ca31fb425032c9c1b6d3c3f8f63ea8d394 78474bdd3e192f57a40c1446032c49a208a8763d objectbb <objectbb@gmail.com> 1519880280 -0600	commit: header modification
+78474bdd3e192f57a40c1446032c49a208a8763d eab7e84565105862961572d71737fff5f0a60e44 objectbb <objectbb@gmail.com> 1520124642 -0600	commit: push participants coords
+eab7e84565105862961572d71737fff5f0a60e44 8af065d4bd20cd01600fa13a0dc9ea58bddcefb1 objectbb <objectbb@gmail.com> 1520156836 -0600	commit: broadcast photo
+8af065d4bd20cd01600fa13a0dc9ea58bddcefb1 2ae3c7436c444942472341a4b5f0581e3c4aaef6 objectbb <objectbb@gmail.com> 1520671395 -0600	commit: broadcast participant and event
+2ae3c7436c444942472341a4b5f0581e3c4aaef6 17ce9c6778c159d2e570bc76f02241b05b2e4f28 objectbb <objectbb@gmail.com> 1521864562 -0500	commit: insertmany participants allows for one
+17ce9c6778c159d2e570bc76f02241b05b2e4f28 16dccaa27f314692c8e98173907710521a7ff259 objectbb <objectbb@gmail.com> 1521866399 -0500	commit: insertmany participants allows for one
+16dccaa27f314692c8e98173907710521a7ff259 a919109ed5b0e90b9f3ac342ad9c5a5944444c9f objectbb <objectbb@gmail.com> 1522719841 -0500	commit: init
